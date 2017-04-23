@@ -1,2 +1,4 @@
 for i in range(10):
-    print(i)
+    print(i * i)
+    if i == 5:
+        break
